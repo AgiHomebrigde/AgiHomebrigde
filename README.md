@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Koen@AgiHomebrigde
+- 👀 I’m interested in home automation
+- 🌱 I’m currently learning how to integrate Teletask domotics with Homekit using Homebridge , Google Assistant and Assistant Relay.
+- 💞️ I’m looking to collaborate on how to integrate Assistant Relay with Homebridge in a stable way.
